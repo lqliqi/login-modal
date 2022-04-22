@@ -1,11 +1,4 @@
 /*** src/index.module.css ***/
-body {
-  background-color: #f0f0f0;
-}
-ul,
-li {
-  list-style: none;
-}
 .userInfo {
   width: 98px;
   height: 60px;
