@@ -80,11 +80,13 @@
 .menuList {
   width: 100%;
   padding: 0;
+  list-style: none;
 }
 .menuList > li,
 .menuItem {
   height: 50px;
   font-size: 12px;
+  list-style: none;
 }
 .logoutBtn {
   display: block;
